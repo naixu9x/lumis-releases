@@ -15,7 +15,7 @@ Without a camera (for example an emulator), open the link `lumis://store?id=<you
 Each release lists the SHA-256 of the APK. Releases are signed with a certificate whose SHA-256 fingerprint is:
 
 ```
-71:89:DF:76:9C:4B:71:B0:FA:EF:8C:74:2C:6B:58:57:DD:78:D9:0F:7A:71:26:05:63:59:A8:5E:49:AB:BD:B5
+71:89:DF:76:9C:4B:71:B0:FA:EF:8C:76:8B:58:57:DD:D7:8D:90:A2:6F:71:26:05:63:59:A8:5E:49:AB:BD:B5
 ```
 
 ## Notes
